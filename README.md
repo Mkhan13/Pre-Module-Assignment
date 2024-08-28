@@ -1,4 +1,4 @@
-# Pre-Module-Assignment
+# Pre-Module Assignment
 This Python script combines two CSV files into a single file. It includes functionality to read CSV files, compare the headers of two csv files, and concatenate the data into a new file.
 
 ## Requirements
