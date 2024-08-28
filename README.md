@@ -14,3 +14,5 @@ Run the python file from the command line and provide two csv files as arguments
 Replace ```<file1>``` and  ```<file2>``` with the names of your csv files. For example:  
   
 ```python combine_csv.py sample_file_1.csv sample_file_2.csv```
+
+**Ensure the two csv files have the same column names for them to concatonate correctly**
